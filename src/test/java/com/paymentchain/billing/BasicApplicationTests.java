@@ -66,6 +66,9 @@ public class BasicApplicationTests {
         }
     }
 
+    
+    // ========= PRUEBAS PARA CREAR FACTURAS  ================
+    
     /**
      * Test call of create method, on weblayer.
      */
